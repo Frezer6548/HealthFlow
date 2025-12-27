@@ -1,0 +1,7 @@
+{
+  "name": "HealthFlow",
+  "description": "A comprehensive health and wellness SaaS platform with smart hydration, automatic workouts, and meal planning.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
